@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#000080"
+    >
+<TextView  
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:id="@+id/beginLabel"
+    android:text="From:"
+    style="@style/MainFont"
+    />
+<Spinner android:prompt="@string/prompt" android:id="@+id/beginSpinner" android:layout_height="wrap_content" android:layout_width="fill_parent"></Spinner>
+<TextView  
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:id="@+id/finishLabel"
+    android:text="To:"
+    style="@style/MainFont"
+    />
+<Spinner android:prompt="@string/prompt" android:id="@+id/finishSpinner" android:layout_height="wrap_content" android:layout_width="fill_parent"></Spinner>
+<CheckBox 
+    style="@style/MainFont" android:text="Wheels? (Skateboard, Bike?)" android:id="@+id/wheelsCheck" android:layout_width="wrap_content" android:layout_height="wrap_content"></CheckBox>
+<TextView  
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:id="@+id/minimizeLabel"
+    android:text="Minimize:"
+    style="@style/MainFont"
+    android:paddingTop="10px"
+    />
+<RadioGroup android:id="@+id/minimizeRadio" android:layout_width="fill_parent" android:layout_height="wrap_content" >
+    <RadioButton android:text="Distance" android:layout_width="wrap_content" android:id="@+id/distanceRadio" android:layout_height="wrap_content" android:checked="true" 
+    style="@style/LittleFont"></RadioButton>
+    <RadioButton android:text="Time" android:layout_width="wrap_content" android:id="@+id/timeRadio" android:layout_height="wrap_content" 
+    style="@style/LittleFont"></RadioButton>
+</RadioGroup>
+<Button android:textSize="25px" android:id="@+id/goButton" android:text="Go!" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="40px"></Button>
+</LinearLayout>

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+	<string-array name="vertices">
+		<item>IBS - Sachar International Center</item>
+		<item>IBS - Lemberg Academic Center</item>
+		<item>Goldman-Schwartz Fine Arts</item>
+		<item>Spingold Theater Center</item>
+		<item>Pollack Fine Arts</item>
+		<item>The Rose Art Museum</item>
+		<item>Faculty Center</item>
+		<item>Faculty Lodge</item>
+		<item>Shapiro Residence Hal</item>
+		<item>Deroy Residence Hall</item>
+		<item>Renfield Residence Hall</item>
+		<item>Usen Residence Hall</item>
+		<item>Sherman Hall / Hassenfeld Conference Center</item>
+		<item>Rosenthal Residence Hall North</item>
+		<item>Rosenthal Residence Hall East</item>
+		<item>Rosenthal Residence Hall South</item>
+		<item>Shapiro Campus Center</item>
+		<item>Fellows Garden</item>
+		<item>Gryzmish Center</item>
+		<item>Irving Presidential Enclave</item>
+		<item>Bernstein-Marcus</item>
+		<item>Main Entrance</item>
+		<item>Slosberg Music Center</item>
+		<item>Shapiro Admissions Center</item>
+		<item>Ridgewood Residence Hall A</item>
+		<item>Ridgewood Residence Hall B</item>
+		<item>Ridgewood Residence Hall C</item>
+		<item>Village Residence Hall</item>
+		<item>Ziv Residence Hall D</item>
+		<item>Ziv Residence Hall A</item>
+		<item>Ziv Residence Hall B</item>
+		<item>Mazer Residence Hall</item>
+		<item>Epstein Building</item>
+		<item>60 Turner Street</item>
+		<item>567 South Street Apartments</item>
+		<item>May Residence Hall</item>
+		<item>Lewis Residence Hall</item>
+		<item>Coffman Residence Hall</item>
+		<item>Cohen Residence Hall</item>
+		<item>The Rabb School</item>
+		<item>Berlin Chapel</item>
+		<item>Harlan Chapel</item>
+		<item>Bethlehem Chapel</item>
+		<item>Chapels Field</item>
+		<item>Heller School Schneider Building</item>
+		<item>Mandel Center for Studies in Jewish Education</item>
+		<item>Abraham Shapiro Academic Complex</item>
+		<item>Heller School Heller-Brown Building</item>
+		<item>Mandel Center for the Humanities</item>
+		<item>Olin-Sang American Civilization Center</item>
+		<item>Golding Judaic Center</item>
+		<item>Lown School of Near Eastern and Judaic Studies</item>
+		<item>Shiffman Humanities Center</item>
+		<item>Rabb Graduate Center</item>
+		<item>Scheffres Residence Hall</item>
+		<item>Gordon Residence Hall</item>
+		<item>Reitman Residence Hall</item>
+		<item>Cable Residence Hall</item>
+		<item>Kutz Hall</item>
+		<item>Usdan Student Center</item>
+		<item>Goldfarb Library</item>
+		<item>Farber Library</item>
+		<item>Pearlman Hall</item>
+		<item>Goldsmith Building</item>
+		<item>Volen National Center For Complex Systems</item>
+		<item>Feldberg Communicatins Center</item>
+		<item>Abelson-Bass-Yalem</item>
+		<item>Bassine Science Building</item>
+		<item>Gerstenzang Science Library</item>
+		<item>Edison-Lecks Science Building</item>
+		<item>Shapiro Science Center</item>
+		<item>Rosenstiel Basic Medical Sciences Research Center</item>
+		<item>Kosow-Wolfson-Rosensweig</item>
+		<item>Foster Bio-Medical Research Center</item>
+		<item>Schwartz Hall</item>
+		<item>Brown Social Science Center</item>
+		<item>Lemberg Hall And Children\'s Center</item>
+		<item>Usen Castle</item>
+		<item>Intercultural Center, Swig Hall</item>
+		<item>Hassenfeld-Krivoff Residence Hall</item>
+		<item>Shapiro Residence Hall	</item>
+		<item>Rubenstein-Pomerantz Residence Hall</item>
+		<item>Golding Health Center</item>
+		<item>Landsman Research Facility</item>
+		<item>Stoneman Infirmary And Public Safety</item>
+		<item>Mailman House</item>
+		<item>Squire Bridge</item>
+		<item>Squire Bridge North Entrance</item>
+		<item>Squire Bridge South Entrance</item>
+		<item>Under Squire Bridge</item>
+		<item>Shapiro Athletic Center</item>
+		<item>Shapiro Athletic Center Entrance</item>
+		<item>Linsey Sports Center And Pool</item>
+		<item>Foster Residence Quad</item>
+		<item>Gosman Sports and Convocation Center</item>
+		<item>Rieger Tennis Courts</item>
+		<item>Marcus Field</item>
+		<item>Gordon Field</item>
+		<item>IBS Lemberg Academic Center Front Entrance</item>
+		<item>Start Lower Theater Lot Rear Access Road</item>
+		<item>Intersection of Turner St. and South St.</item>
+		<item>Between Fine Arts and Theater</item>
+		<item>Ziv Quad</item>
+		<item>Epstein Entrance</item>
+		<item>Ridgewood Quad</item>
+		<item>West Intersection of South St. and Old South St.</item>
+		<item>Loop Road At The Theater</item>
+		<item>Loop Road At The Admissions Building</item>
+		<item>Loop Road At The Administration Building</item>
+		<item>East Intersection of South St. and Old South St.</item>
+		<item>Loop Road By The Hassenfeld Lot</item>
+		<item>Shapiro And Administration Main Entrances</item>
+		<item>Loop Road At Below The Science Complex</item>
+		<item>Loop Road At The Chapels</item>
+		<item>Rosenthal Quad</item>
+		<item>Administration Side Entrance</item>
+		<item>Top Of Usen Steps</item>
+		<item>Between Sciences and Library</item>
+		<item>Between Social Sciences And Library</item>
+		<item>Loop Road At The Top Of Squire Bridge Steps</item>
+		<item>Loop Road At The Health Center</item>
+		<item>South St. At The Base Of Health Center Steps</item>
+		<item>Athletics Front Entrance</item>
+		<item>Athletics Driveway Lower Corner</item>
+		<item>Mandel Quad</item>
+		<item>Loop Road By Mandel Center</item>
+		<item>Loop Road By Rabb Steps</item>
+		<item>North Quad</item>
+		<item>Loop Road At The Usdan Student Center</item>
+		<item>Cable Residence Hall Street Entrance</item>
+		<item>Loop Road At The Usdan Student Center West End</item>
+		<item>Usen Main Entrance</item>
+		<item>Intersection Of Loop Road And Usen Bypass</item>
+		<item>Loop Road At The Top Of East Quad Steps</item>
+		<item>Lower Theater Lot</item>
+		<item>Theater Lot</item>
+		<item>T-Lot</item>
+		<item>Hassenfeld Lot</item>
+		<item>Tower Lot</item>
+		<item>East Quad Lower Lot</item>
+		<item>Athletic Lot</item>
+		<item>Shapiro Visitor Lot</item>
+		<item>Athletic Back Lot</item>
+		<item>Science Lot</item>
+		<item>Athletic Lower Lot</item>
+		<item>Gordon Field Bleachers</item>
+		<item>Admissions Lot</item>
+		<item>Slodberg Lot</item>
+		<item>North Quad Lot</item>
+		<item>Plant Lot</item>
+	</string-array>    
+</resources>
+
